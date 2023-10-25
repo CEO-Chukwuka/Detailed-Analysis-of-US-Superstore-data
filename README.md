@@ -1,4 +1,4 @@
-# Detailed-Analysis-of-US-Superstore-data
+![image](https://github.com/CEO-Chukwuka/Detailed-Analysis-of-US-Superstore-data/assets/147647942/e815a89b-6ac1-46e8-903f-d79aa04342e1)# Detailed-Analysis-of-US-Superstore-data
 
 ## Introduction
 This analysis is based on a dataset of sales volumes and values by Segment,State and other factors with specific order dates and shipment dates per customer and per Order. I took a deep dive into the key drivers of the Sales so as to see areas where we can improve the overall business performance. 
@@ -54,7 +54,7 @@ To answer and present my data appropriately, I created several pivot tables and 
 ## CONCLUSION AND RECOMMENDATION
 The data shows that we have high sales in the phones sub-category, Consumer segment, Standard class ship mode and West region.
 
-The recommnendations are therefore;
+The recommendations are therefore;
 1. Improve on the time it takes to process order so we can save time processing orders and spend more time getting new orders.
 2. Focus more on the Standard class ship mode as that is a significant part of the business.
-3. Pay more attention to the Consumer segment of the business. A Customer relationship/rentention management system is needed to optimise this.
+3. Pay more attention to the Consumer segment of the business. A Customer relationship/retention management system is needed to optimise this.
