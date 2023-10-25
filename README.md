@@ -53,7 +53,8 @@ To answer and present my data appropriately, I created several pivot tables and 
 
 ## CONCLUSION AND RECOMMENDATION
 The data shows that we have high sales in the phones sub-category, Consumer segment, Standard class ship mode and West region.
-RECOMMENDATION
+
+The recommnendations are therefore;
 1. Improve on the time it takes to process order so we can save time processing orders and spend more time getting new orders.
 2. Focus more on the Standard class ship mode as that is a significant part of the business.
 3. Pay more attention to the Consumer segment of the business. A Customer relationship/rentention management system is needed to optimise this.
