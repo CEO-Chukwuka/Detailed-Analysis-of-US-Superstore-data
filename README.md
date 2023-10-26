@@ -15,7 +15,9 @@ I also used the MAX function to get the longest time it takes to process orders.
 1. Which Segment Has The Highest Revenue
 2. Which Ship Mode Generates The Highest Quantity
 3. Which Region Contributes The Highest Revenue
-4. Which Sub-Category Has The Highest Sales 
+4. Which Sub-Category Has The Highest Sales
+5. Which category has the highest number of transactions.
+6. Which year did we make the most sales and profit 
 
 To answer and present my data appropriately, I created several pivot tables and Visuals to support my insights.
 
@@ -42,7 +44,19 @@ To answer and present my data appropriately, I created several pivot tables and 
    
    ![](P4.PNG)
 
-  The Phones Sub category has the highest Revenue in the Top 10, while the Appliance sub category has the lowest in the Top 10
+    The Phones Sub category has the highest Revenue in the Top 10, while the Appliance sub category has the lowest in the Top 10
+
+5. Which category has the highest number of transactions 
+   
+   ![](P6B.PNG)
+
+  The Office supplies category has the highest number of transactions. 6.026 transactions which is 60% of the total 9,994 transactions.
+
+6. Which year did we make the most sales and profit 
+   
+   ![](P7.PNG)
+
+  The highest sales and profit were in 2017. Also, key to note that Sales declined between 2014 and 2015 but profit improved during the same period due to cost savings. 
    
 
 ## SLICER
@@ -58,3 +72,4 @@ The recommendations are therefore;
 1. Improve on the time it takes to process order so we can save time processing orders and spend more time getting new orders.
 2. Focus more on the Standard class ship mode as that is a significant part of the business.
 3. Pay more attention to the Consumer segment of the business. A Customer relationship/retention management system is needed to optimise this.
+4. Implement more cost management strategies to maximize profit. 
