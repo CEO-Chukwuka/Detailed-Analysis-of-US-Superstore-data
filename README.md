@@ -1,4 +1,4 @@
-![image](https://github.com/CEO-Chukwuka/Detailed-Analysis-of-US-Superstore-data/assets/147647942/e815a89b-6ac1-46e8-903f-d79aa04342e1)# Detailed-Analysis-of-US-Superstore-data
+# Detailed-Analysis-of-US-Superstore-data
 
 ## Introduction
 This analysis is based on a dataset of sales volumes and values by Segment,State and other factors with specific order dates and shipment dates per customer and per Order. I took a deep dive into the key drivers of the Sales so as to see areas where we can improve the overall business performance. 
