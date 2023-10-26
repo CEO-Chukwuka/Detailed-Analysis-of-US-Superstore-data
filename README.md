@@ -50,13 +50,13 @@ To answer and present my data appropriately, I created several pivot tables and 
    
    ![](P6B.PNG)
 
-  The Office supplies category has the highest number of transactions. 6.026 transactions which is 60% of the total 9,994 transactions.
+  The Office supplies category has the highest number of transactions. 6,026 transactions which is 60% of the total 9,994 transactions.
 
 6. Which year did we make the most sales and profit 
    
-   ![](P7.PNG)
+   ![](P7B.PNG)
 
-  The highest sales and profit were in 2017. Also, key to note that Sales declined between 2014 and 2015 but profit improved during the same period due to cost savings. 
+  The highest sales and profit were in 2017. Also, key to note that Sales declined (from 484,247 to 470,533) between 2014 and 2015 but profit improved (from 49,544 to 61,619) during the same period due to cost savings. 
    
 
 ## SLICER
